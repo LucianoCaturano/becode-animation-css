@@ -15,4 +15,4 @@ Exercice dans le cadre de ma formation Be Code - Charleroi
  * lenteur pour trouver la "bonne" formule de positionnement,
  * sass pas encore intégré,
  * hésitation sur le choix des animations et/ou transitions,
- * perte de temps diverses.
+ * pertes de temps diverses.
